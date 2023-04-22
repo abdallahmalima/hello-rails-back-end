@@ -71,5 +71,5 @@ group :test do
   gem 'webdrivers'
 end
 
-gem 'rack-cors'
 gem 'dotenv-rails', groups: %i[development test]
+gem 'rack-cors'

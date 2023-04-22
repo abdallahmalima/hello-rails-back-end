@@ -60,23 +60,13 @@ After installing Ruby, run the following command to install rails.-
 
 ### Setup
 
-1. Clone this project on your local machine using the following command in your terminal:
+ Clone this project on your local machine using the following command in your terminal:
 
 ```sh
-  git clone git@github.com:abdallahmalima/hello-rails-back-end.git
+  git clone git@github.com:abdallahmalima/hello-rails-font-end.git
 ```
 
-2. Inside the project directory, install the project's dependencies
 
-   ```
-   bundle install
-   ```
-
-3. Setup the app's database
-   ```
-   rails db:create
-   rails db:migrate
-   rails db:seed
    ```
 
 ### Install
