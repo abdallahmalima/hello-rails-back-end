@@ -106,6 +106,10 @@ OR
 
 - **Add authentication using JWT**
 
+## 🤝 Font-End Project 
+
+Clone the font-end project using this [link](https://github.com/abdallahmalima/hello-rails-font-end.git)
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
